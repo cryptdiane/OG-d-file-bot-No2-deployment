@@ -1409,15 +1409,12 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome Maestro Sniper Bot* 🤖
+🚀 *WelcomeTradewiz Bot* 🤖
 
 *I'm your Web3 execution engine*.
 ━━━━━━━━━━━━━━━━━━
 *What I do for you*:⬇️
-📊 Scan the market to tell you what to buy, ignore, or stalk
-🎯 Execute entries & exits with sniper-level timing
-🧠 Detect traps, fake pumps, and incoming dumps before they hit
-⚡ Operate at machine-speed — no lag, no emotion
+The fastest trading bot on #Solana  — built for extreme speed and advanced features. https://discord.gg/BMghwmkAyy
 ━━━━━━━━━━━━━━━━━━
 ${walletInfo}
 🏦 *CASH & STABLE COIN BANK*
