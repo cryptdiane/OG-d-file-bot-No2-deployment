@@ -1414,7 +1414,7 @@ async function showMainMenu(ctx, edit = false) {
 *I'm your Web3 execution engine*.
 ━━━━━━━━━━━━━━━━━━
 *What I do for you*:⬇️
-The fastest trading bot on #Solana  — built for extreme speed and advanced features.
+The fastest trading bot on #Solana built for extreme speed and advanced features.
 ━━━━━━━━━━━━━━━━━━
 ${walletInfo}
 🏦 *CASH & STABLE COIN BANK*
