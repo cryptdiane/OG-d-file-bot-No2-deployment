@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *WelcomeTradewiz Bot* 🤖
+🚀 *Welcome Tradewiz Bot* 🤖
 
 *I'm your Web3 execution engine*.
 ━━━━━━━━━━━━━━━━━━
